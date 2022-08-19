@@ -1,0 +1,64 @@
+.container{
+    margin-bottom: 30px;
+}
+.navbar img{
+    height: 70px;
+}
+.banner-products{
+    
+    background-image: url(immage/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 70px;
+}
+/* .carousel-indicators{
+    background-color: red;
+} */
+.card{
+    padding: 10px;
+    margin: 20px 20px;
+    /* border: 2px solid black; */
+    border-radius: 20px;
+    box-shadow: 20px 10px 30px lightgray;
+    
+}
+.card img{
+    width: 300px;
+}
+
+.categories{
+    box-shadow: 10px 20px 30px gainsboro;
+    /* border: 2px solid black; */
+    align-items: center;
+    border-radius: 10px;
+}
+.love img{
+    width: 100%;
+}
+.underline-block{
+    height: 10px;
+    width: 20%;
+    border-radius: 10px;
+    background-image: linear-gradient(.25turn,orange, yellow);
+}
+.footer a{
+    text-decoration: none;
+}
+ .back-button:hover{
+    background-color: black;
+}
+.back-button{
+    padding: 0%;
+    margin: 0%;
+    height: 40px;
+    background-color: skyblue;
+}
+.footer h4{
+    text-align: center;
+    color: aliceblue;
+}
+.footer p{
+    padding-top: 20px;
+    
+    text-align: center;
+}
